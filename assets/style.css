@@ -139,9 +139,11 @@ p {
 
 .search-engine-optimization {
   margin-bottom: 20px;
-  margin-top: 140px;
+  /*changed due to vs code not bein gthe same, vscode was 140 and this is 610px*/
+  margin-top: 610px;
   padding: 50px;
-  height: 280px;
+  height: 300px;
+  width: 900px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
