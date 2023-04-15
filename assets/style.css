@@ -78,13 +78,7 @@ p {
 /*RIGHT SIDE BAR */
 
 .benefits {
-  margin-right: 30px;
-  margin-bottom: 900px;
-  padding: 80px;
-  clear: both;
-  float: right;
-  width: 30%;
-  height: 100%;
+float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
@@ -143,7 +137,7 @@ p {
   margin-top: 610px;
   padding: 50px;
   height: 300px;
-  width: 950px;
+  width: 1300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
@@ -154,7 +148,7 @@ p {
   padding: 50px;
   height: 300px;
   /*added width*/
-  width: 950px;
+  width: 1300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
@@ -164,8 +158,9 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  width: 950px;
+  width: 1300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+
   background-color: #0072bb;
   color: #ffffff;
 }
