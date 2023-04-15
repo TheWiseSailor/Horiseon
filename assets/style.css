@@ -78,8 +78,8 @@ p {
 /*RIGHT SIDE BAR */
 
 .benefits {
-  margin-right: 40px;
-  margin-top: 9.5%;
+  margin-right: 30px;
+  margin-bottom: 900px;
   padding: 80px;
   clear: both;
   float: right;
@@ -143,7 +143,7 @@ p {
   margin-top: 610px;
   padding: 50px;
   height: 300px;
-  width: 900px;
+  width: 950px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
@@ -154,7 +154,7 @@ p {
   padding: 50px;
   height: 300px;
   /*added width*/
-  width: 900px;
+  width: 950px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
@@ -164,7 +164,7 @@ p {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
-  width: 900px;
+  width: 950px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
