@@ -22,4 +22,5 @@
 
 ![minisomethinjosephr](https://user-images.githubusercontent.com/68026214/232843029-f672f481-e119-4352-9035-36beaa6e9acd.jpg)
 
-![minisomethin2023](https://user-images.githubusercontent.com/68026214/232858705-38b9924c-0301-4079-8333-495a2bf1d567.jpg)
+
+![minisomethin2023project](https://user-images.githubusercontent.com/68026214/232859091-9ea6e899-80f2-4eba-aa75-88d23a8ecbbb.jpg)
