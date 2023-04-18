@@ -2,7 +2,7 @@
 
 # Description
  This challenge follows the On-the-job ticket type of challenge.
- iven the starter code, the challenge was to modify the html and css to address accessibility. The project was performed by refactoring the code, or in other words improvising the code in terms of accessibility without changing the functionality.
+ Given the starter code, the challenge was to modify the html and css to address accessibility. The project was performed by refactoring the code, or in other words improvising the code in terms of accessibility without changing the functionality.
  
 "Web accessibility is a factor that organizations must take into account more and more. It guarantees that persons with impairments can use assistive technologies like screen readers, braille keyboards, and video captions o access a website.  Making a website accessible benefits businesses in multiple ways to which are accessible websites that perform better in search engines like Google. Additionally, it aids businesses in avoiding lawsuits that would result from denying access to their websites to those with impairments."
 
