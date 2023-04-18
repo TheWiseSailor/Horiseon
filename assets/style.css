@@ -3,6 +3,7 @@
   padding: 0;
   margin: 0;
 }
+/* body section*/
 body {
   background-color: #d9dcd6;
 }
@@ -22,7 +23,7 @@ h1 {
 .seo {
   color: #d9dcd6;
 }
-/*  nav section*/
+/* nav sections*/
 nav {
   padding-top: 15px;
   margin-right: 20px;
