@@ -10,4 +10,8 @@
 ![Screenshot 2023-04-17 183700](https://user-images.githubusercontent.com/68026214/232642875-d71e1bd4-2068-41c8-af65-a5fb04f2dbcc.png)
 ![Screenshot 2023-04-17 210743](https://user-images.githubusercontent.com/68026214/232643097-2666cc47-bc53-4193-ad94-b07f0e00c950.png)
 
-
+# Mock-up
+ The following image was a mockup from the client of the intended page viewing:
+ # Credits
+ Github.com
+ # License MIT
