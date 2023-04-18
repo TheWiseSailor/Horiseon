@@ -21,4 +21,5 @@
  The following image was a mockup from the client of the intended page viewing:
 
 ![minisomethinjosephr](https://user-images.githubusercontent.com/68026214/232843029-f672f481-e119-4352-9035-36beaa6e9acd.jpg)
-![minisomethinjosephr2](https://user-images.githubusercontent.com/68026214/232843067-166c337e-dbf8-414d-9f95-63e8f1a68272.jpg)
+
+![minisomethin2023](https://user-images.githubusercontent.com/68026214/232858705-38b9924c-0301-4079-8333-495a2bf1d567.jpg)
